@@ -1,2 +1,3 @@
 # badge-test-yolo
-Testing Pair Extraordinaire badge
+Testing Pair Extraordinaire
+Testing pair badge
